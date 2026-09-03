@@ -1,0 +1,8 @@
+interface:
+  display_name: "PM Make"
+  short_description: "把产品想法快速定型为清晰方案"
+  brand_color: "#2563EB"
+  default_prompt: "Use $PM-Make to turn my rough product idea into a shaped product brief."
+
+policy:
+  allow_implicit_invocation: true
